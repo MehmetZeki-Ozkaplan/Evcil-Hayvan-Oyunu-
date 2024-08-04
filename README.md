@@ -45,17 +45,18 @@ To compile and run Pet Nurturing Game, follow these steps:
 
 - Clone the Repository :
 
-      git clone https://github.com/username/project-name.git
+      git clone https://github.com/MehmetZekii/Evcil-Hayvan-Oyunu-
 
-      cd project-name
+      cd Evcil-Hayvan-Oyunu
 
 - Compile the Code:
 
-      gcc -o pet_game main.c implementation.c
+      gcc main.c implementation.c -o pet_game
 
 - Run the Executable:
 
       ./pet_game
+
 
 ## Usage
 
