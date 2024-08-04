@@ -61,20 +61,20 @@ To compile and run Pet Nurturing Game, follow these steps:
 
 When the program runs, it displays a menu offering various options to the user. An example of the screen output is as follows:
 
-    -----EVCİL HAYVAN YETİŞTİRME OYUNU-----
-    |1. Evcil Hayvanınızı Ekleyin         |
-    |2. Evcil hayvanınızı Güncelleyin     |
-    |3. Evcil Hayvan Verinizi Silin        |
-    |4. Evcil Hayvanlarınızı Listeleyin   |
-    |5. Evcil Hayvanınıza Yemek Verin      |
-    |6. Evcil Hayvanınıza Su Verin        |
-    |7. Evcil Hayvanınız ile Oyun Oynayın |
-    |8. Evcil Hayvanınızı Temizleyin      |
-    |9. Evcil Hayvanınızı Sevin           |
-    |10. Evcil Hayvanınızı Uyutun         |
-    |11. Evcil Hayvanınızı Ödüllendirin   |
-    |12. İşlemleri Kaydet ve Çıkış        |
-    ______________________________________
+    ---- EVCİL HAYVAN YETİŞTİRME OYUNU -----
+    | 1. Evcil Hayvanınızı Ekleyin         |
+    | 2. Evcil hayvanınızı Güncelleyin     |
+    | 3. Evcil Hayvan Verinizi Silin       |
+    | 4. Evcil Hayvanlarınızı Listeleyin   |
+    | 5. Evcil Hayvanınıza Yemek Verin     |
+    | 6. Evcil Hayvanınıza Su Verin        |
+    | 7. Evcil Hayvanınız ile Oyun Oynayın |
+    | 8. Evcil Hayvanınızı Temizleyin      |
+    | 9. Evcil Hayvanınızı Sevin           |
+    | 10. Evcil Hayvanınızı Uyutun         |
+    | 11. Evcil Hayvanınızı Ödüllendirin   |
+    | 12. İşlemleri Kaydet ve Çıkış        |
+    ________________________________________
     Seçmek istediğiniz işlem numarasını giriniz: 
 
 Users can interact with their pets by selecting various options. Example interactions and their outputs:
