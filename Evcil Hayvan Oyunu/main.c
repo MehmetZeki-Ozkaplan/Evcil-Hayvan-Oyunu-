@@ -12,4 +12,3 @@ int main() {
 return 0;
 }
 
-// ! EDİTÖR OLARAK 'DEV-C' HARİCİNDE ONLİNE COMPİLER TERCİH ETMEK DURUMUNDA KALDIM . 'DEV-C' DE HATA ALMANIZ DURUMDA BU EDİTÖRÜ KULLANABİLİRSİNİZ"https://www.onlinegdb.com/online_c_compiler" !
