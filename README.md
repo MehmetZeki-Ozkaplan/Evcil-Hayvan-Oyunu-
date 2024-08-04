@@ -61,7 +61,7 @@ To compile and run Pet Nurturing Game, follow these steps:
 
 When the program runs, it displays a menu offering various options to the user. An example of the screen output is as follows:
 
-    -----EV CİL HAYVAN YETİŞTİRME OYUNU-----
+    -----EVCİL HAYVAN YETİŞTİRME OYUNU-----
     |1. Evcil Hayvanınızı Ekleyin         |
     |2. Evcil hayvanınızı Güncelleyin     |
     |3. Evcil Hayvan Verinizi Silin        |
