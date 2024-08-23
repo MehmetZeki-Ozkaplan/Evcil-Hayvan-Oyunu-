@@ -45,7 +45,7 @@ To compile and run Pet Nurturing Game, follow these steps:
 
 - Clone the Repository :
 
-      git clone https://github.com/MehmetZekii/Evcil-Hayvan-Oyunu-
+      git clone https://github.com/MehmetZeki-Ozkaplan/Evcil-Hayvan-Oyunu-
 
       cd Evcil-Hayvan-Oyunu
 
